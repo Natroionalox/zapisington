@@ -16,12 +16,25 @@ věřitel x dlužník
 	-vyrovnaná práva/povinnosti
 	-závazek - vztah mezi věřitelem a dlužníkem
 
+###### Druhy vztahů
+- Podle způsosbu vzniku: **smluvní** x **mimosmluvní**
+- Podle vzájemnosti plnění: oboustraně x jednostraně zavazující
+- vznik **z vůle stran** x **nezávisle na vůli**
+- **nominátní** x **inominátní** (výslovně upraveny nebo ne)
+- jednoduché x více subjektů
+- **smluvní** x **deliktní** (smlouva x protiprávní jednání/stav)
+
 Změny závazků:
 - **v osobě věřitele**: postoupení pohledávky
 - **v osobě dlužníka**: převzetí dluhu, přistoupení k dluhu (přistoupí druhý dlužník), převzetí majetku
 - **v obsahu**: novace (dosavadní závazek se ruší a nahrazuje se), narovnání (je dále platný, upraví se práva a povinnosti sporné nebo pochybné)
 
-Zánik závazku:
+###### Vznik závazků:
+- ze smluv
+- z protiprávních činů
+- z jiných právních skutečností - (úřední rozhodnutí, protiprávní stavy)
+
+###### Zánik závazku:
 - splněním
 - kvintace: potvrzení od věřitele, že byl dluh splněn
 - dlužní úpis: 
@@ -44,10 +57,10 @@ Utvrzení dluhu:
 
 
 zásady:
-- zásada dobré víry
+- **zásada dobré víry**
 - zásada dodržení dobrých mravů
 - **pacta sunt servanda**: smlouvy mají být dodržovány
-- zásada jednat poctivě: nelze se odvolat na svou nezodpovědnost
+- zásada **jednat poctivě**: nelze se odvolat na svou nezodpovědnost
 - zásada **dispozitivnosti** (bezformálnosti): lze tvořit jakoukoliv smlouvu (dokud není zakázána zákonem, neporušuje dobré mravy, veřejný pořádek, postavení osob)
 	-netýče se převodu nemovité věci a specifických smluv daných zákonem
 	
@@ -59,5 +72,9 @@ Principy smluvního práva
 ###### Zvláštní:
 specifické typy smlouvy
 
+###### Smlouva
+- dvoustranné či vícestranné **právní jednání**
+- **vůle** mezi sebou **zřídit závazek**
+- uzavřena ujednáním obsahu
 ## [[Standardizované smlouvy]]
 ![[Standardizované smlouvy]]

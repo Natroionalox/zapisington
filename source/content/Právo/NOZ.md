@@ -19,3 +19,7 @@ rozdělení:
 5. ustanovení společná, přechodná a závěrečná
 
 ### ![[Absolutní majetková práva]]
+### ![[Odpovědnost za újmu]]
+### ![[Relativní majetkové právo]]
+### ![[Rodinné právo]]
+

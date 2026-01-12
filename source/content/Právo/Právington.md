@@ -47,5 +47,7 @@ Formy:
 ## ![[Právní norma]]
 
 ## ![[Právní vztah]]
-## ![[Ústavní právo]]
-## ![[NOZ]]
+# ![[Soukromé právo]] 
+# ![[Veřejné právo]]
+
+# ![[Občanský soudní řád]]

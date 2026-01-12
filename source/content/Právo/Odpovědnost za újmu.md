@@ -4,7 +4,14 @@ Příčinná souvislost - fakt, že jednáním byla způsobena příčina
 
 Nahrazuje se pouze odpovídající výše majetkové/nemajetkové újmy
 
-###### Vznik povinnosti nahradit škodu:
+Rozdíl:
+- majetková újma - škoda
+	- skutečná škoda
+	- ušlý zisk
+- nemajetková újma
+	- čest, důstojnost, zdraví
+
+###### Vznik povinnosti nahradit újmu:
 1. Porušení povinnosti
 	- ze zákona
 	- ze smlouvy
@@ -33,3 +40,14 @@ Nahrazuje se pouze odpovídající výše majetkové/nemajetkové újmy
 - náhoda
 - z provozu dopravních prostředků (např. škoda na zavazadle po letu)
 - na věcech vnesených, nebo odložených
+
+###### Bezdůvodné obohacení
+- plnění bez právního důvodu
+- plnění práv z důvodů, který odpadl
+- protiprávním užití cizí hodnoty
+- za něho bylo plněno, co měl plnit sám
+
+Nepočítá se:
+- byl plněn dluh, a to i předčasně
+- nebylo-li uplatněno právo, ačkoliv mohlo
+- obohacení jedný osoby druhou za úmyslem obdarování.

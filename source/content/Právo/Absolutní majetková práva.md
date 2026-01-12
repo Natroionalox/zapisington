@@ -55,3 +55,5 @@ Nezávisle na vůli
 - **věcné břemeno**
 - **zástavní právo**
 - **zadržovací právo**
+
+##### ![[Dědické právo]]

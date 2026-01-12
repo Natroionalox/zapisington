@@ -4,6 +4,3 @@
 
 # [[Občanský zákoník]]
 ![[Občanský zákoník]]
-
-# [[Podnikání]]
-![[Podnikání]]
